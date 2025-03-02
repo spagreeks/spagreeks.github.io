@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   IT、哲学、科学、旅游、历史、比特币,没有一样是专业的。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spagreeks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: spagreeks
+github_username:  spagreeks
 
 # Build settings
 theme: minima
